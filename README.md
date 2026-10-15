@@ -10,8 +10,7 @@ To develop a secure embedded bank locker system that authenticates users through
 
 📊 Block Diagram
 
-image
-✨ Features
+<img width="524" height="628" alt="image" src="https://github.com/user-attachments/assets/7c12fb7e-3c56-4fc1-8b82-50f911f8f25f" />
 
 Dual-factor authentication (Password + Fingerprint)
 Secure password storage in EEPROM
